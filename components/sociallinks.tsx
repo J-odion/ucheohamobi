@@ -6,7 +6,7 @@ import Link from "next/link"
 const socialLinks = [
   {
     name: "LinkedIn",
-    href: "#",
+    href: "https://www.linkedin.com/in/uche-ohamobi-76501b140/",
     icon: Linkedin,
     color: "hover:text-blue-600",
   },

@@ -91,7 +91,7 @@ export default function Component() {
     {
       title: "Senior IT Engineer",
       company: "Speeds Healthcare",
-      period: "Sept 2024 - Jan 2025",
+      period: "April 2024 - Jan 2025",
       description:
         "Technical escalation point, project implementations, Active Directory management, and IT solution design.",
       icon: Server,
@@ -227,7 +227,7 @@ export default function Component() {
             </h1>
             <p className="text-xl md:text-2xl text-slate-300 mb-4">IT Security Specialist & Cloud Engineer</p>
             <p className="text-lg text-slate-400 mb-8 max-w-2xl mx-auto">
-              Passionate IT professional with 5+ years of experience in cybersecurity, cloud technologies, and technical
+              Passionate IT professional with 4 years of experience in cybersecurity, cloud technologies, and technical
               support. Committed to securing digital infrastructure and driving innovation in the modern IT landscape.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -270,7 +270,7 @@ export default function Component() {
                 </CardHeader>
                 <CardContent className="text-slate-300">
                   <p className="mb-4">
-                    Based in Liverpool, UK, I am a passionate IT professional with over five years of hands-on
+                    Based in Liverpool, UK, I am a passionate IT professional with over four years of hands-on
                     experience in technical support, cybersecurity, and customer relations. My expertise spans cloud
                     technologies, network security, and ITIL service management.
                   </p>
@@ -572,7 +572,7 @@ export default function Component() {
                   <Button
                     variant="outline"
                     className="w-full justify-start border-slate-600 hover:border-cyan-400 hover:text-cyan-400"
-                    onClick={() => window.open("https://github.com/ucheohamobi", "_blank")}
+                    onClick={() => window.open("https://github.com/ucheohams", "_blank")}
                   >
                     <Github className="mr-3 h-5 w-5" />
                     GitHub Profile
