@@ -96,14 +96,7 @@ export default function Component() {
         "Technical escalation point, project implementations, Active Directory management, and IT solution design.",
       icon: Server,
     },
-    {
-      title: "Service Desk Engineer",
-      company: "TES INC",
-      period: "Sept 2021 - August 2024",
-      description:
-        "Resolving technical issues, maintaining service desk efficiency, and managing end-user hardware provisioning.",
-      icon: HardDrive,
-    },
+    
     {
       title: "Technical Support Analyst",
       company: "FSDH",
