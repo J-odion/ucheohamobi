@@ -96,14 +96,30 @@ export default function Component() {
         "Technical escalation point, project implementations, Active Directory management, and IT solution design.",
       icon: Server,
     },
-    
-    {
+     {
       title: "Technical Support Analyst",
       company: "FSDH",
       period: "Sept 2019 - Sept 2021",
       description: "Client relationship management, technical support delivery, and test plan development.",
       icon: Cpu,
     },
+    {
+      title: "Senior Technical Analyst",
+      company: "STG Africa",
+      period: "Sept 2019 - Sept 2021",
+      description:
+        "Client relationship management, technical support delivery, and test plan development.",
+      icon: Server,
+    },
+    {
+      title: "Senior Technical Analystr",
+      company: "STG  Africa",
+      period: "Aug 2018 - Sept 2019",
+      description:
+        "Technical escalation point, project implementations, Active Directory management, and IT solution design.",
+      icon: Server,
+    },                                                                
+   
   ]
 
   const certifications = [
