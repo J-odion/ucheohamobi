@@ -105,7 +105,7 @@ export default function Component() {
       icon: Server,
     },
     {
-      title: "Senior Technical Analystr",
+      title: "Technical Analyst",
       company: "STG  Africa",
       period: "Aug 2018 - Sept 2019",
       description:
