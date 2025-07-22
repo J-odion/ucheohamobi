@@ -240,7 +240,7 @@ export default function Component() {
                 <Mail className="mr-2 h-5 w-5" />
                 Get In Touch
               </Button>
-              <a href="/UcheCV.docx"
+              <a href="/Uche-Ohamobi-Resume.pdf"
                 className="border-cyan-400 text-cyan-400 hover:bg-cyan-400 hover:text-slate-950 px-8 py text-lg flex justify-center items-center border bg-white rounded-md"
               >
                 <Download className="mr-2 h-5 w-5" />
